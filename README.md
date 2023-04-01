@@ -1,2 +1,2 @@
 # Restaurant-website-Vanilla-js
-Using Bootstrap, Htmal, Css, and Native Javascript
+# Using Bootstrap, Html, Css, and Native Javascript
